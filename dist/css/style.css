@@ -644,6 +644,7 @@ label {
 	width: 100%;
 	display: block;
 	height: 1px;
+	margin-bottom: 1rem !important;
 	background: #242830;
 }
 .m-0 {
